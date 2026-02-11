@@ -1,6 +1,6 @@
 # Exercícios da Aula 1 de Desenvolvimento Web I - ADS
 
-## [lista_compras.md](./lista_compras.md)
+## [lista_compras.md.md](./lista_compras.md.md)
 - Criei uma lista de compras comum de supermercado.
 
 ## [lista_compras_numerada.md](./lista_compras_numerada.md)
