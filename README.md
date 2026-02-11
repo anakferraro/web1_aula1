@@ -9,7 +9,7 @@
 ## [lista_compras_separada.md](./lista_compras_separada.md)
 - A lista agora está separada por setores do supermercado como: açougue, frios e etc.
 
-## [tabela_produtos.md](./tabelas_produto.md)
+## [tabela_produtos.md.md](./tabelas_produto.md.md)
 - Escolhemos 3 produtos e comparamos os valores deles em duas lojas diferentes, fizemos essa comparação através de uma tabela.
 
 ## [artigo.md](./artigo.md)
